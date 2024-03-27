@@ -1,0 +1,1 @@
+# elastic sink connector defult olarak gelmediğinden dolayı debezium image içerisine indirilmesi gerekmektedir.
